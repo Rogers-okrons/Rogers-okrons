@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rogers-okrons
+- 👀 I’m interested in develpin g
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on building web based Application
+- 😄 Pronouns: He/Him
